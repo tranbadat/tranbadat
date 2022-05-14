@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DatTran98 , I'm working as a developer at Luvina Software JSC
+- 👋 Hi, I’m @DatTran98 , I'm working as a developer at VNPAY
 - I graduated from Hanoi University of Scient and Technology
 - 👀 I’m interested in java-kotlin android, c#, web php.
 - 🌱 I’m currently learning kotlin android
