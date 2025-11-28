@@ -15,7 +15,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
 - ✨ **Favorite Project:** [remote-signing](https://github.com/tranbadat/remote-signing)
 - 📫 **How to Reach Me:**  
   - [LinkedIn](https://www.linkedin.com/in/tran-ba-dat/)  
-  - [Personal Website](https://dattb.com)
+  - [Personal Website](https://tranbadat.vn)
 
 - 🌍 **Goal:** I want to try better and work for a global, international company.
 
@@ -37,7 +37,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
 ## 💬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/tran-ba-dat/)
-- [Personal Website](https://dattb.com)
+- [Personal Website](https://tranbadat.vn)
 
 ---
 
